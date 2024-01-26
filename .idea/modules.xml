@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ex1/ex1.iml" filepath="$PROJECT_DIR$/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex22/ex22.iml" filepath="$PROJECT_DIR$/ex22/ex22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3/ex3.iml" filepath="$PROJECT_DIR$/ex3/ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4/ex4.iml" filepath="$PROJECT_DIR$/ex4/ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw1/hw1.iml" filepath="$PROJECT_DIR$/hw1/hw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw2/hw2.iml" filepath="$PROJECT_DIR$/hw2/hw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw2/hw3/hw3.iml" filepath="$PROJECT_DIR$/hw2/hw3/hw3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/hw4/hw4.iml" filepath="$PROJECT_DIR$/out/hw4/hw4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack.iml" filepath="$PROJECT_DIR$/stack.iml" />
+    </modules>
+  </component>
+</project>
